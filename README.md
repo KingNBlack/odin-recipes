@@ -1,1 +1,1 @@
-# odin-recipes
+In this "odin-recipes" project, we'll be reviewing all the things we learned so far in the odin project and putting it into practice by building out a webpage for a recipe.
